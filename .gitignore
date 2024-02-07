@@ -1,0 +1,6 @@
+models/
+build/
+bin/
+
+train.csv
+test.csv

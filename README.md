@@ -27,7 +27,7 @@ Then run
 with some 0 <= index <= 999 to apply the model to one sample in the testing data. It will display the image being tested, the model's prediction, and the model's confidence.
 
 ## Advanced
-You can modify the parameters found in [include/parameters.h](https://github.com/macsencasaus/mnist-ann-c/include/parameters.h) to change the characteristics and accuracy of the model!
+You can modify the parameters found in [include/parameters.h](https://github.com/macsencasaus/mnist-ann-c/tree/main/include/parameters.h) to change the characteristics and accuracy of the model!
 
 ## Resources
 - https://www.youtube.com/watch?v=w8yWXqWQYmU&t=530s&ab_channel=SamsonZhang
